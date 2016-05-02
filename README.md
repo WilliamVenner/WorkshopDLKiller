@@ -11,3 +11,5 @@ Want to automate it? You can supply arguments to it.
 ```
 
 Download from the [Releases](https://github.com/BillyOnWiiUIn144p/WorkshopDLKiller/releases) section.
+
+[Facepunch Thread](https://facepunch.com/showthread.php?t=1517179)
